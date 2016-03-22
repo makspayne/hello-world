@@ -1,2 +1,2 @@
 # hello-world
-Hello World Repository
+This is just to learn how GIT works.
